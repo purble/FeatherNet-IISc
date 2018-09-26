@@ -6,6 +6,8 @@ The IISc-RF dataset comprises of 60,150 RGB images each of dimension 49x49 on ro
 
 Below are randomly selected 5 examples from each of the three classes:
 
+![ThreeClasses](Data/Sample/3classes.png)
+
 # Dataset Layouts
 
 ## Python version
