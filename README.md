@@ -5,9 +5,6 @@ The IISc-RF is labelled dataset accompanying manuscript titled "FeatherNet - A C
 The IISc-RF dataset comprises of 60,150 RGB images each of dimension 49x49 on roads inside the Indian Institute of Science campus. The dataset is split into disjoint training (51,150 images) and test (9,000 images) sets. Each set has equal representation of images from three classes- Turn Left, Go Straight and Turn Right. Furthermore, the images in the test set were collected on separate set of roads than those in training set.
 
 Below are randomly selected 5 examples from each of the three classes:
-* TurnLeft : ![](https://github.com/purble/FeatherNet-IISc/tree/master/Data/Sample/TurnLeft.png)
-* GoStraight : ![](https://github.com/purble/FeatherNet-IISc/tree/master/Data/Sample/GoStraight.png)
-* TurnRight : ![](https://github.com/purble/FeatherNet-IISc/tree/master/Data/Sample/TurnRight.png)
 
 # Dataset Layouts
 
